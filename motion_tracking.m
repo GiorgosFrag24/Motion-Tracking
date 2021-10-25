@@ -1,18 +1,5 @@
-% %================================================
-% %National Technical University of Athens        |
-% %School of Electrical & Computer Engineering    |
-% %Computer Vision & Speech Processing Lab        |
-% %Computer Vision, 8th Semester                  |        
-% %Second Laborotatory Exercise, Parts 1 && 2     |
-% %Lucas-Kanade Alg. for Hand Motion Observation  |
-% %---------------------------------------------  |
-% %Oroutzoglou Ioannis,   03112124, 8th Semester  |
-% %Georgios Fragozidis,   03112608, 8th Semester  |
-% %================================================
-% 
-
-
 %% Part 1
+%% Detect user Skin
 addpath('./Chalearn');
 addpath('./ChalearnUser');
 
